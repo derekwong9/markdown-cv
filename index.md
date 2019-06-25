@@ -1,26 +1,60 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Derek Wong Resume
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Derek Wong
+derek@goldencompassquant.com
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+Quantitative asset allocation, algorithmic multi-strategy portfolios, and trading infrastructure developer
+
+## Summary
+A highly motivated and experienced quantitative portfolio manager with trading research and execution infrastructure development experience. With a focus on trading derivatives, in emerging markets with limited or irregular data. Having created two trading desks previously, most recently a global quantitative multi-strategy portfolio producing double digit annualized returns and most performant of the group for a Shanghai listed company's asset management arm. 
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Working for Golden Compass Quantitative Research, as a co-founder. Providing trading infrastructure, strategic consulting, hedging process optimization, and execution capabilities to firms in the precious metals, and crypto-currency space. 
 
-### Specialized in
+**Project:**
+Precious Metals Trading Firm
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+* Identified areas of uncovered exposure leading to average savings of *2.63%* per relevant transaction
+* Optimized paper hedging cost providing an average savings of *36.6%* per transaction
+* Created SOP documentation to increase efficiency and reduce key man risk for trading and operations
+* Assisted in generating new Gold to Crypto product, by expanding OTC execution, hedging, accounting, and banking/custodial capabilities with 3rd parties.
 
 
-### Research interests
+## Specialized in
+
+Robust alpha generating strategy research, historical data cleaning and aggregation, synthetic data generation, multi-strategy/multi-asset signal optimization, and Direct Market Access trade execution. 
+
+## Experience
+`Feb 2019 - Present` 
+__Golden Compass Quantitative Research, Co-Founder__ 
+
+* test
+
+`Jul 2016 - Jan 2018`
+__Foretrade Investment Management Co, Ltd., Director of Systematic and Options Trading__ 
+
+* test
+
+`Jan 2016 - Jul 2018`
+__Foretrade Investment Management Co, Ltd., Deputy Director of Systematic and Options Trading__ 
+
+* test
+
+`Nov 2014 - Nov 2015`
+__Pioneer Financial, Lead Quantitative Strategist__ 
+
+* test
+
+`Aug 2012 - Nov 2014`
+__Hedge Trading Services Co. Ltd., Analyst__ 
+
+* test
+
+## Research interests
 
 Cooling, power series, optics, alchemy, planetary motions, apples.
 
@@ -86,6 +120,6 @@ __Lucasian professor of Mathematics__, Cambridge University
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: June 2019 -->
 
 
